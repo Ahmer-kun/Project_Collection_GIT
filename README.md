@@ -19,11 +19,11 @@ Welcome to my web development portfolio! Below are some of the React-based proje
 | [Insert Project 2 Name] | Short description, e.g., a simple CRUD-based contact manager app. | React, Bootstrap, Context API | [GitHub](https://github.com/your-username/project-2) | [Live Site](https://your-username.github.io/project-2) |
 | [Insert Project 3 Name] | Short description, e.g., a portfolio homepage built with animations and dark mode toggle. | React, TailwindCSS, Framer Motion | [GitHub](https://github.com/your-username/project-3) | [Live Site](https://your-username.github.io/project-3) |
 
-Project Name | My Portfolio
-Description  | A one page Portfolio
-Teck Stack   | HTML,CSS,JS
-Github Link  | <a href="https://github.com/Ahmer-kun/myportfolio/">REPO_LINK</a>
-Live Demo    | <a href="https://ahmer-kun.github.io/myportfolio/">LIVE_LINK</a>
+[Project Name] | My Portfolio
+[Description]  | A one page Portfolio
+[Teck Stack]   | HTML,CSS,JS
+[Github Link]  | <a href="https://github.com/Ahmer-kun/myportfolio/">REPO_LINK</a>
+[Live Demo]    | <a href="https://ahmer-kun.github.io/myportfolio/">LIVE_LINK</a>
 ## STATUS: [COMPLETED]
 ---
 Project Name | Travel Buddy
