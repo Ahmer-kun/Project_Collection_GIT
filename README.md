@@ -36,7 +36,7 @@ Welcome to my web development portfolio! Below are some of the React-based proje
 <b>GitHub Link:</b> <a href="https://github.com/Ahmer-kun/REACT-e-plantShopping">REPO_LINK</a><br>
 <b>Live Demo:</b> <a href="https://ahmer-kun.github.io/REACT-e-plantShopping/">LIVE_LINK</a><br>
 <b>Status:</b> 🚧 IN PROGRESS<br>
-<b>##Note:</b> Currently encountering an error at `main.jsx`
+<b>Note:</b> Currently encountering an error at `main.jsx`
 
 ---
 
