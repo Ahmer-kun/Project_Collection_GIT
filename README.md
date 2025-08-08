@@ -1,3 +1,7 @@
+<div align="center">
+<h2 id="السَّلاَمُ-عَلَيْكُمْ-وَرَحْمَةُ-اللهِ-وَبَرَكَاتُهُ"><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ…✨</b></h2>
+</div>
+
 <h1 align="center"><b>Hi , I'm Muhammad Ahmer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -49,3 +53,4 @@ Welcome to my web development portfolio! Below are some of the React-based proje
 ---
 ##Two more Projects are Underway
 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 
+
