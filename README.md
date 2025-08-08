@@ -11,28 +11,31 @@ Welcome to my web development portfolio! Below are some of the React-based proje
 
 ---
 
-## 📁 Projects Overview
 
-<br>[Project Name] | My Portfolio</br> 
-<br>[Description]  | A one page Portfolio </br>
-[Teck Stack]   | HTML,CSS,JS
-[Github Link]  | <a href="https://github.com/Ahmer-kun/myportfolio/">REPO_LINK</a>
-[Live Demo]    | <a href="https://ahmer-kun.github.io/myportfolio/">LIVE_LINK</a>
-## STATUS: [COMPLETED]
----
-Project Name | Travel Buddy
-Description  | This is a travel Recommendation Website created for the IBM Skills Network Course: JavaScript Essentials Final Project.
-Teck Stack   | HTML, CSS,, JavaScript
-Github Link  | <a href= "https://github.com/Ahmer-kun/Final-project-for-Travel-Recommendation">REPO_LINK</a>
-Live Demo    | <a href="https://ahmer-kun.github.io/Final-project-for-Travel-Recommendation//">LIVE_LINK</a>
-## STATUS: [100%] 
----
-Project Name | Paradise Nursery {e-plantShopping}
-Description  | This is a E-commerce website, where green meets serenity! This project is a small e-commerce website built using React.
-Teck Stack   | HTML, CSS, React, Redux Toolkit, Vite, CSS Modules, GitHub Pages
-Github Link  | <a href= "https://github.com/Ahmer-kun/REACT-e-plantShopping">REPO_LINK</a>
-Live Demo    | <a href= "https://ahmer-kun.github.io/REACT-e-plantShopping/">REPO_LINK</a>
-## STATUS: [IN PROGRESS...]
-#NOTE:Encountering Error At main.jsx
+### 📌 Project 1: **My Portfolio**
+<br><b>Description:</b> A one-page responsive portfolio to showcase my work and background.<br>
+<b>Tech Stack:</b> HTML, CSS, JavaScript<br>
+<b>GitHub Link:</b> <a href="https://github.com/Ahmer-kun/myportfolio/">REPO_LINK</a><br>
+<b>Live Demo:</b> <a href="https://ahmer-kun.github.io/myportfolio/">LIVE_LINK</a><br>
+<b>Status:</b> ✅ COMPLETED
+
 ---
 
+### 📌 Project 2: **Travel Buddy**
+<br><b>Description:</b> A travel recommendation website created as a final project for the IBM Skills Network JavaScript Essentials course.<br>
+<b>Tech Stack:</b> HTML, CSS, JavaScript<br>
+<b>GitHub Link:</b> <a href="https://github.com/Ahmer-kun/Final-project-for-Travel-Recommendation">REPO_LINK</a><br>
+<b>Live Demo:</b> <a href="https://ahmer-kun.github.io/Final-project-for-Travel-Recommendation/">LIVE_LINK</a><br>
+<b>Status:</b> ✅ 100% COMPLETED
+
+---
+
+### 📌 Project 3: **Paradise Nursery (e-PlantShopping)**
+<br><b>Description:</b> An e-commerce website where green meets serenity! Built using React for plant shopping with cart features.<br>
+<b>Tech Stack:</b> React, Redux Toolkit, Vite, CSS Modules, GitHub Pages<br>
+<b>GitHub Link:</b> <a href="https://github.com/Ahmer-kun/REACT-e-plantShopping">REPO_LINK</a><br>
+<b>Live Demo:</b> <a href="https://ahmer-kun.github.io/REACT-e-plantShopping/">LIVE_LINK</a><br>
+<b>Status:</b> 🚧 IN PROGRESS<br>
+<b>Note:</b> Currently encountering an error at `main.jsx`
+
+---
