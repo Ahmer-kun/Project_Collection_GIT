@@ -13,8 +13,8 @@ Welcome to my web development portfolio! Below are some of the React-based proje
 
 ## 📁 Projects Overview
 
-[Project Name] | My Portfolio 
-[Description]  | A one page Portfolio 
+<br>[Project Name] | My Portfolio</br> 
+<br>[Description]  | A one page Portfolio </br>
 [Teck Stack]   | HTML,CSS,JS
 [Github Link]  | <a href="https://github.com/Ahmer-kun/myportfolio/">REPO_LINK</a>
 [Live Demo]    | <a href="https://ahmer-kun.github.io/myportfolio/">LIVE_LINK</a>
